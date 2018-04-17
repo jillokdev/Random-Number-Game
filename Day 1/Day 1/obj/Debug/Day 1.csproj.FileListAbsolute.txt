@@ -1,0 +1,7 @@
+c:\users\julia\source\repos\Day 1\Day 1\bin\Debug\Day 1.exe.config
+c:\users\julia\source\repos\Day 1\Day 1\bin\Debug\Day 1.exe
+c:\users\julia\source\repos\Day 1\Day 1\bin\Debug\Day 1.pdb
+c:\users\julia\source\repos\Day 1\Day 1\obj\Debug\Day 1.csprojResolveAssemblyReference.cache
+c:\users\julia\source\repos\Day 1\Day 1\obj\Debug\Day 1.csproj.CoreCompileInputs.cache
+c:\users\julia\source\repos\Day 1\Day 1\obj\Debug\Day 1.exe
+c:\users\julia\source\repos\Day 1\Day 1\obj\Debug\Day 1.pdb
